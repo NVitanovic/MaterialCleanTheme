@@ -1,0 +1,42 @@
+{
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images\/theme_frame.jpeg",
+            "theme_frame_inactive": "images\/theme_frame.jpeg",
+            "theme_frame_incognito": "images\/theme_frame_incognito.jpeg",
+            "theme_frame_incognito_inactive": "images\/theme_frame_incognito.jpeg",
+            "theme_toolbar": "images\/theme_toolbar.png",
+            "theme_tab_background": "images\/theme_tab_background.png",
+            "theme_tab_background_incognito":"images\/theme_frame_incognito.jpeg",
+            "theme_ntp_background": "images\/theme_ntp_background.jpeg"
+        },
+        "colors": {
+            "frame": [38, 50, 56],
+            "frame_inactive": [38, 50, 56],
+            "frame_incognito" : [33, 33, 33],
+            "frame_incognito_inactive" : [33, 33, 33],
+            "toolbar": [38, 50, 56],
+            "tab_text": [190, 206, 207],
+            "tab_background_text": [76, 100, 122],
+            "bookmark_text": [78, 150, 163],
+            "ntp_background": [38, 50, 56],
+            "ntp_text": [190, 206, 207],
+            "ntp_header": [38, 50, 56],
+            "button_background": [38, 50, 56, 1]
+        },
+        "tints": {
+            "buttons": [0.51, 0.15, 0.78],
+            "frame_inactive": [38, 50, 56],
+            "frame_incognito": [33, 33, 33],
+            "frame_incognito_inactive": [33, 33, 33]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    },
+    "name": "Material Clean Theme",
+    "version": "1",
+    "description": "Simple flat Material Design inspired theme."
+}
