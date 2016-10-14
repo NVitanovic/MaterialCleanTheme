@@ -7,7 +7,7 @@ With some bookmarks :)
 ![Default theme](http://i.imgur.com/Gjs4Slk.png)
 
 ## Easy install
-1. Download the latest theme by clicking [here](#).
+1. Download the latest theme by clicking [here](https://raw.githubusercontent.com/NVitanovic/MaterialCleanTheme/master/bin/MaterialCleanTheme-latest.crx).
 2. Drag and drop the downloaded .crx file on Chrome.
 3. Click on "Add theme".
 4. You are done enjoy the theme.
